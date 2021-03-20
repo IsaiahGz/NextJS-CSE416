@@ -22,12 +22,8 @@ export default function Home({ allPostsData }) {
 			</Head>
 			<section className={utilStyles.headingMd}>
 				<p>
-					Hello, this for fulfulling training requirements in order to complete
-					CSE 416.
-				</p>
-				<p>
-					(This is a sample website - you’ll be building a site like this on{' '}
-					<a href='https://nextjs.org/learn'>our Next.js tutorial</a>.)
+					Hello, this is for fulfilling training requirements in order to
+					complete CSE 416.
 				</p>
 			</section>
 			<section className={utilStyles.headingMd}>
